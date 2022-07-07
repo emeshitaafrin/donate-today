@@ -181,6 +181,15 @@ p {
 }
 /* Service area style end  */
 
+/* contribute area start */
+.contribute-area > .content-area {
+    text-align: left;
+}
+.contribute-area > .content-area > p {
+    text-align: left;
+}
+/* contribute area end */
+
 /* Footer area style */
 .footer-area {
     background: #0B0D17;
