@@ -111,6 +111,7 @@ p {
     transition: all 0.3s ease-in-out;
     margin-top: 30px;
     border: 1px solid transparent;
+    line-height: 100px;
 }
 .btn:hover {
     color: #FF5959;
@@ -219,13 +220,13 @@ p {
     text-align: left;
     border-radius: 5px;
 }
-.item-1 {
-    background: rgba(79, 157, 166, 0.10);
+.section-width > .item-1 {
+    background: #4f9da61a;
 }
-.item-2 {
-    background: rgba(255, 89, 89, 0.10);
+.section-width > .item-2 {
+    background: #ff59591a;
 }
-.item-3 {
+.section-width > .item-3 {
     background: #FFF4D6;
 }
 .service-item img {
@@ -280,6 +281,7 @@ p {
     border-radius: 0px;
     margin: 0;
     padding: 14px 43px;
+    line-height: 18px;
 }
 /* Newslatter area end */
 
